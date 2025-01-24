@@ -1,3 +1,3 @@
 # instateste
 
-Imersão Dev Back-End da Alura utilizando Node.js.
+Imersão Dev Back-End da Alura - Site utilizando Node.js.
